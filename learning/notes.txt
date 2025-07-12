@@ -32,7 +32,3 @@ Class A:
 the subneting: Subnetting is a way to split a large network into smaller,
                 more manageable pieces called subnets.
 
-
-
-
-
