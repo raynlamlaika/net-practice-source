@@ -1,0 +1,38 @@
+
+so first is the ip addres is in way to represent every divice or machie
+
+IP: Your IP address is a unique number linked to your online activity,
+somewhat like a return address on a letter.
+more about public IP address
+        A public IP address is a unique numerical label assigned to each device connected to the Internet, allowing for the identification and communication between devices on a global scale.
+
+
+u can be changed (IP)!!!
+        Should I change my IP address?
+        Changing your IP address can be beneficial for several reasons:
+
+        Enhanced Privacy and Anonymity: By changing your IP address, your online activities become hidden from third parties, including websites, cybercriminals, and even your Internet Service Provider (ISP). This ensures that your browsing, streaming, and gaming remain private.
+        Dedicated IP Benefits: Obtaining a Dedicated IP can streamline your online interactions. You'll face fewer dreaded CAPTCHAs, enjoy secure access to business servers and online payments, and maintain a consistent virtual location in select countries. This is particularly advantageous for those requiring stable access for work or personal use.
+        Comprehensive Online Protection: Utilizing services like CyberGhost, ExpressVPN, NordVPN, Private Internet Access, & IPVanish not only changes your IP address but also shields you from other online threats. Enjoy a cleaner browsing experience without intrusive ads and trackers, improved performance, and enhanced security against cyber threats.
+        Concealed Location: A changed IP address masks your physical location by connecting you to a private, encrypted VPN server. This level of privacy ensures that not even your ISP can monitor your online activities, offering peace of mind and additional security.
+        Secure Public Wi-Fi Use: Changing your IP address through a VPN provides a secure and private connection, even on unsecured public Wi-Fi networks. This allows you to safely browse, shop, and bank on the go without risking your personal information.
+
+192.  168 . 1   .  204
+Net Portion        Host
+
+
+
+
+classe of in ip address:
+Class A:
+        Public & Private IP Address Range
+
+
+
+the subneting: Subnetting is a way to split a large network into smaller,
+                more manageable pieces called subnets.
+
+
+
+
+
